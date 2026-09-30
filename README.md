@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi peers!
 
-<!--
-**gonzalogallegotoscano/gonzalogallegotoscano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gonzalo Gallego, I am a very excited spaniard to have joined this programme. Really nice to meet yall
 
-Here are some ideas to get you started:
+I am able to make a list.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Look
+1. How
+1. I
+1. Do
+1. It
+
+I can also create a hyperlink: [Imperial Canvas](https://canvas.imperial.ac.uk/)
+
